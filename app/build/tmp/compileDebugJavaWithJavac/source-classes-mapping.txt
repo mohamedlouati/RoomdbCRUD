@@ -1,0 +1,15 @@
+com/salvoventura/apps/android/roomcrud/BuildConfig.java
+ com.salvoventura.apps.android.roomcrud.BuildConfig
+com/salvoventura/apps/android/roomcrud/data/DataRecordDao_Impl.java
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$1
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$2
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$3
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$4
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$5
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$6
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$7
+ com.salvoventura.apps.android.roomcrud.data.DataRecordDao_Impl$8
+com/salvoventura/apps/android/roomcrud/data/AppRoomDatabase_Impl.java
+ com.salvoventura.apps.android.roomcrud.data.AppRoomDatabase_Impl
+ com.salvoventura.apps.android.roomcrud.data.AppRoomDatabase_Impl$1
